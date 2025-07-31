@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    display: flex;
+    max-width: 1920px;
+}
+
+#entrar {
+    background-color: #191919;
+    width: 40vw;
+    height: 100vh;
+}
+
+#cadastro {
+    background-color: #85DAFF;
+    width: 60vw;
+    height: 100vh;
+}
